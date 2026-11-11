@@ -1,15 +1,106 @@
 {
   "notices": [
     {
-      "showFrom": "2026-11-10",
-      "showUntil": "2026-11-12",
+      "showFrom": "2026-12-18",
+      "showUntil": "2027-01-01",
       "titleEn": "Holiday Notice",
       "titleZh": "假期通知",
       "introEn": "The office hours of the SBC CPA Singapore office on the dates below are as follows:",
       "introZh": "駿業會計師事務所新加坡辦公室在下列日期之辦公時間如下：",
       "rows": [
-        { "holidayEn": "Deepavali", "holidayZh": "屠妖节 假期", "date": "2026/11/08 (Sunday)", "hoursEn": "Closed", "hoursZh": "休息" },
-        { "holidayEn": "Deepavali (in lieu)", "holidayZh": "屠妖节 补假", "date": "2026/11/09 (Monday)", "hoursEn": "Closed", "hoursZh": "休息" }
+        {"holidayEn": "Christmas Day", "holidayZh": "聖誕節 假期", "date": "2026/12/25 (Friday)", "hoursEn": "Closed", "hoursZh": "休息"},
+        {"holidayEn": "New Year's Day", "holidayZh": "元旦 假期", "date": "2027/01/01 (Friday)", "hoursEn": "Closed", "hoursZh": "休息"}
+      ]
+    },
+    {
+      "showFrom": "2027-01-30",
+      "showUntil": "2027-02-08",
+      "titleEn": "Holiday Notice",
+      "titleZh": "假期通知",
+      "introEn": "The office hours of the SBC CPA Singapore office on the dates below are as follows:",
+      "introZh": "駿業會計師事務所新加坡辦公室在下列日期之辦公時間如下：",
+      "rows": [
+        {"holidayEn": "Chinese New Year", "holidayZh": "農曆新年 假期", "date": "2027/02/06 (Saturday)", "hoursEn": "Closed", "hoursZh": "休息"},
+        {"holidayEn": "Chinese New Year", "holidayZh": "農曆新年 假期", "date": "2027/02/07 (Sunday)", "hoursEn": "Closed", "hoursZh": "休息"},
+        {"holidayEn": "Chinese New Year (in lieu)", "holidayZh": "農曆新年 補假", "date": "2027/02/08 (Monday)", "hoursEn": "Closed", "hoursZh": "休息"}
+      ]
+    },
+    {
+      "showFrom": "2027-03-03",
+      "showUntil": "2027-03-10",
+      "titleEn": "Holiday Notice",
+      "titleZh": "假期通知",
+      "introEn": "The office hours of the SBC CPA Singapore office on the dates below are as follows:",
+      "introZh": "駿業會計師事務所新加坡辦公室在下列日期之辦公時間如下：",
+      "rows": [
+        {"holidayEn": "Hari Raya Puasa", "holidayZh": "開齋節 假期", "date": "2027/03/10 (Wednesday)", "hoursEn": "Closed", "hoursZh": "休息"}
+      ]
+    },
+    {
+      "showFrom": "2027-03-19",
+      "showUntil": "2027-03-26",
+      "titleEn": "Holiday Notice",
+      "titleZh": "假期通知",
+      "introEn": "The office hours of the SBC CPA Singapore office on the dates below are as follows:",
+      "introZh": "駿業會計師事務所新加坡辦公室在下列日期之辦公時間如下：",
+      "rows": [
+        {"holidayEn": "Good Friday", "holidayZh": "耶穌受難日 假期", "date": "2027/03/26 (Friday)", "hoursEn": "Closed", "hoursZh": "休息"}
+      ]
+    },
+    {
+      "showFrom": "2027-04-24",
+      "showUntil": "2027-05-01",
+      "titleEn": "Holiday Notice",
+      "titleZh": "假期通知",
+      "introEn": "The office hours of the SBC CPA Singapore office on the dates below are as follows:",
+      "introZh": "駿業會計師事務所新加坡辦公室在下列日期之辦公時間如下：",
+      "rows": [
+        {"holidayEn": "Labour Day", "holidayZh": "勞動節 假期", "date": "2027/05/01 (Saturday)", "hoursEn": "Closed", "hoursZh": "休息"}
+      ]
+    },
+    {
+      "showFrom": "2027-05-10",
+      "showUntil": "2027-05-20",
+      "titleEn": "Holiday Notice",
+      "titleZh": "假期通知",
+      "introEn": "The office hours of the SBC CPA Singapore office on the dates below are as follows:",
+      "introZh": "駿業會計師事務所新加坡辦公室在下列日期之辦公時間如下：",
+      "rows": [
+        {"holidayEn": "Hari Raya Haji", "holidayZh": "哈芝節 假期", "date": "2027/05/17 (Monday)", "hoursEn": "Closed", "hoursZh": "休息"},
+        {"holidayEn": "Vesak Day", "holidayZh": "衛塞節 假期", "date": "2027/05/20 (Thursday)", "hoursEn": "Closed", "hoursZh": "休息"}
+      ]
+    },
+    {
+      "showFrom": "2027-08-02",
+      "showUntil": "2027-08-09",
+      "titleEn": "Holiday Notice",
+      "titleZh": "假期通知",
+      "introEn": "The office hours of the SBC CPA Singapore office on the dates below are as follows:",
+      "introZh": "駿業會計師事務所新加坡辦公室在下列日期之辦公時間如下：",
+      "rows": [
+        {"holidayEn": "National Day", "holidayZh": "國慶日 假期", "date": "2027/08/09 (Monday)", "hoursEn": "Closed", "hoursZh": "休息"}
+      ]
+    },
+    {
+      "showFrom": "2027-10-21",
+      "showUntil": "2027-10-28",
+      "titleEn": "Holiday Notice",
+      "titleZh": "假期通知",
+      "introEn": "The office hours of the SBC CPA Singapore office on the dates below are as follows:",
+      "introZh": "駿業會計師事務所新加坡辦公室在下列日期之辦公時間如下：",
+      "rows": [
+        {"holidayEn": "Deepavali", "holidayZh": "屠妖節 假期", "date": "2027/10/28 (Thursday)", "hoursEn": "Closed", "hoursZh": "休息"}
+      ]
+    },
+    {
+      "showFrom": "2027-12-18",
+      "showUntil": "2027-12-25",
+      "titleEn": "Holiday Notice",
+      "titleZh": "假期通知",
+      "introEn": "The office hours of the SBC CPA Singapore office on the dates below are as follows:",
+      "introZh": "駿業會計師事務所新加坡辦公室在下列日期之辦公時間如下：",
+      "rows": [
+        {"holidayEn": "Christmas Day", "holidayZh": "聖誕節 假期", "date": "2027/12/25 (Saturday)", "hoursEn": "Closed", "hoursZh": "休息"}
       ]
     }
   ]

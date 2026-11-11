@@ -46,7 +46,7 @@ ${s}`);return}throw ns(e.error,e.error_description,e.suberror)?new ae(e.error,e.
 <p class="contact"><span class="emoji">\u2709\uFE0F</span>&nbsp;<a href="mailto:{{email}}">{{email}}</a></p>
 <p class="contact"><span class="emoji">\u{1F310}</span>&nbsp;<a href="http://www.sbcincorp.com.sg/">sbcincorp.com.sg</a></p>
 </td></tr>
-<tr><td class="social-cell"><p class="social"><a href="https://www.linkedin.com/company/sbcincorp">Linkedin</a> | <a href="https://www.xiaohongshu.com/user/profile/64375d4d000000000d019e65"><b>\u5C0F\u7EA2\u4E66</b></a> | <a href="https://www.instagram.com/sbcincorp">Instagram</a> | &nbsp;<a href="https://www.facebook.com/sbcincorp">Facebook</a> </p></td></tr>
+<tr><td class="social-cell"><p class="social"><a href="https://www.linkedin.com/company/sbcincorp">Linkedin</a> | <a href="https://www.xiaohongshu.com/user/profile/64375d4d000000000d019e65"><b>\u5C0F\u7D05\u66F8</b></a> | <a href="https://www.instagram.com/sbcincorp">Instagram</a> | &nbsp;<a href="https://www.facebook.com/sbcincorp">Facebook</a> </p></td></tr>
 <tr><td class="tagline" colspan="2"><p class="">SBC Asia | Trusted Since 1995 | Assisted over 500,000+ companies worldwide</p></td></tr>
 <tr><td colspan="2"><p class="gap12">&nbsp;</p></td></tr>
 <tr><td class="legal" colspan="2">
