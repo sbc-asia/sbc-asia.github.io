@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SBC Signature</title>
+  <script src="https://appsforoffice.microsoft.com/lib/1/hosted/office.js"></script>
+  <style>
+    body { font-family: "Segoe UI", Arial, sans-serif; font-size: 13px; margin: 12px; color: #222; }
+    h1 { font-size: 16px; margin: 0 0 8px; }
+    button { font: inherit; padding: 6px 12px; margin: 0 6px 8px 0; cursor: pointer; }
+    #status { margin: 6px 0 10px; }
+    .ok { color: #0a6b2f; } .err { color: #a4262c; }
+    #preview { border: 1px solid #ddd; padding: 8px; overflow-x: auto; zoom: 0.55; }
+  </style>
+</head>
+<body>
+  <h1>SBC Signature</h1>
+  <button id="refresh">Sign in / refresh</button>
+  <button id="insert" disabled>Insert signature now</button>
+  <div id="status"></div>
+  <div id="preview"></div>
+  <script src="taskpane.js"></script>
+</body>
+</html>
