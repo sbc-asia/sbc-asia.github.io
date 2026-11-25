@@ -1,13 +1,14 @@
 {
   "notices": [
     {
-      "showFrom": "2026-12-18",
+      "showFrom": "2026-12-17",
       "showUntil": "2027-01-01",
       "titleEn": "Holiday Notice",
       "titleZh": "假期通知",
       "introEn": "The office hours of the SBC CPA Singapore office on the dates below are as follows:",
       "introZh": "駿業會計師事務所新加坡辦公室在下列日期之辦公時間如下：",
       "rows": [
+        {"holidayEn": "Christmas Eve", "holidayZh": "平安夜 假期", "date": "2026/12/24 (Thursday)", "hoursEn": "Closed", "hoursZh": "休息"},
         {"holidayEn": "Christmas Day", "holidayZh": "聖誕節 假期", "date": "2026/12/25 (Friday)", "hoursEn": "Closed", "hoursZh": "休息"},
         {"holidayEn": "New Year's Day", "holidayZh": "元旦 假期", "date": "2027/01/01 (Friday)", "hoursEn": "Closed", "hoursZh": "休息"}
       ]
